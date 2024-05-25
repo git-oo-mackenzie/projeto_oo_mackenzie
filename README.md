@@ -1,7 +1,7 @@
 # projeto_oo_mackenzie
 
 
-## 1. Instalação do Git no Windows
+## 1. Instalação do Git no Windows 2
 
 ### Passo 1: Baixar o Git
 1. Acesse o [site oficial do Git](https://git-scm.com/).
